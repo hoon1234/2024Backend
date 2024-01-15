@@ -1,0 +1,208 @@
+body {
+    background-color: rebeccapurple;
+}
+
+.watch{
+    position: relative;
+    left: 430px;
+    width: 200px;
+}
+
+.title{
+    position: absolute;
+    top: 70px;
+    width: 600px;
+}
+
+.think {
+    position: relative;
+    top: 130px;
+    left: 295px;
+}
+
+.text01{
+    text-align: center;
+    font-family: Consolas;
+    color: yellow;
+}
+
+.text02{
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+}
+
+.text03{
+    position: absolute;
+    left: 350px;
+    top: 500px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: Nanum Gothic;
+}
+
+.text04{
+    position: absolute;
+    left: 230px;
+    top: 550px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: Nanum Gothic;
+}
+
+.text05{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Nanum Gothic;
+}
+
+.text06{
+    position: absolute;
+    left: 280px;
+    top: 800px;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: Nanum Gothic;
+}
+.text07{
+    position: absolute;
+    left: 250px;
+    top: 870px;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: Nanum Gothic;
+}
+
+.textwindow1, .textwindow2{
+
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button1{
+    background-color: yellow;
+    position: absolute;
+    top: 700px;
+    left: 350px;
+    width: 400px;
+    height: 50px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-family: Nanum Gothic;
+    color: purple;
+}
+
+.finger{
+    position: absolute;
+    left: 755px;
+    top: 720px;
+    width: 40px;
+}
+
+.button2 {
+    background-color: yellow;
+    position: absolute;
+    top: 970px;
+    left: 390px;
+    width: 200px;
+    height: 50px;
+    border-radius: 18px;
+    font-size: 15px;
+    color: purple;
+}
+
+.button3{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 990px;
+    left: 630px;
+    width: 100px;
+    height: 54px;
+    border-radius: 25px;
+    font-size: 17px;
+    font-family: Nanum Gothic;
+}
+
+
+.text1{
+    position: relative;
+    left: 310px;
+
+}
+
+.wenivlogo{
+    position: absolute;
+    top: 1150px;
+    left: 450px;
+}
+.weniv1 {
+    position: absolute;
+    top: 1200px;
+    left: 340px;
+}
+
+.time{
+    position: absolute;
+    top: 380px;
+    left: 360px;
+}
+
+.modal-Btn{
+    position: absolute;
+    top: 990px;
+    left: 370px;
+    width: 230px;
+    height: 54px;
+    border-radius: 60px;
+    background-color: yellow;
+    font-size: 18px;
+    font-family: Nanum Gothic;
+    color: purple;
+}
+
+.modal {
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    background-color: white;
+}
+
+.maintitle{
+    margin: auto;
+    margin-left: 120px;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.dream {
+    margin: auto;
+    margin-left: 130px;
+    margin-top: 25px;
+    width: 200px;
+}
+
+.cat{
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 280px;
+}
+
+.close{
+    margin: auto;
+    margin-left: 95px;
+    margin-top: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 25px;
+    font-size: 15px;
+    font-family: Nanum Gothic;
+}
+
